@@ -1,7 +1,4 @@
-README.md
 
-markdown
-复制
 # 足球比赛预测模型
 
 ## 项目简介
